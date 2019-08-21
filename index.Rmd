@@ -40,6 +40,10 @@ library(timevis)
 
 <iframe src="SBICARIA/SBICARIA.html" frameborder="0" width="100%" height="1250" scrolling="no"></iframe>
 
+The proposed meeting room is called **Mar Bella** and it has 80m2 it has a capacity for 35 in school set-up. It doesn't have daylight. The rates are including WIFI, pens, screen and projector.
+
+<img src = "marbella.jpg" width="100%">
+
 ### **Alternative Hotels** {.tabset .tabset-fade .tabset-pills}
 
 #### SB Glow
